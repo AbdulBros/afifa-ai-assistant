@@ -1,0 +1,6 @@
+{
+  "name": "AFIFA",
+  "description": "Your Voice. Your Command. Your World. Your personal AI assistant, cofactor, and smart workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
